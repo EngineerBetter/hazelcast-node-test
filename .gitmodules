@@ -4,3 +4,6 @@
 [submodule "node-http-route"]
 	path = node-http-route
 	url = https://github.com/EngineerBetter/hazelcast-node-app.git
+[submodule "hazelcast-example-app"]
+	path = hazelcast-example-app
+	url = https://github.com/EngineerBetter/hazelcast-example-app.git
