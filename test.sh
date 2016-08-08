@@ -24,7 +24,7 @@ pushd hazelcast-example-app
   mvn clean package
   cf push --no-start
   cf set-env hazelcast-example-app ADDRESSES node.$CF_HOST
-  cf start hazelcast-example-app -t 30
+  cf start hazelcast-example-app
   example_start=$?
 popd
 
