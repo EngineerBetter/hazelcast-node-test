@@ -1,0 +1,6 @@
+[submodule "node-no-route"]
+	path = node-no-route
+	url = https://github.com/EngineerBetter/hazelcast-node-app.git
+[submodule "node-http-route"]
+	path = node-http-route
+	url = https://github.com/EngineerBetter/hazelcast-node-app.git
